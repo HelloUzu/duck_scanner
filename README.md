@@ -13,5 +13,6 @@
 
 <p align="center">
     <img width = 200 src="https://i.pinimg.com/originals/6b/f0/c8/6bf0c8ea5b563be2089d4f92836f719c.gif">
-    <img src="banner.png">
+    <br></br>
+    <img src="Files/banner.png">
 </p>
