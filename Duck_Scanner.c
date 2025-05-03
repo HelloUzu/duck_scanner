@@ -6,9 +6,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-void printBanner(void);
-
 #define MAX_PORT 65535
+
+void printBanner(void);
 
 int main(int argc, char **argv){
 
