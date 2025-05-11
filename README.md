@@ -5,8 +5,8 @@
 > [!IMPORTANT]
 > Because it is developed in C, this simple port scanner is very fast.
 
-1. `To compile you can use` ***`GCC`*** `or a compiler of your choice:` </br>
-    - `gcc Duck_Scanner.c -o Duck_Scanner` </br></br>
+1. **`To compile you can use GCC or a compiler of your choice:`** </br>
+    - `gcc duck_scanner.c -o duck_scanner` </br></br>
 
 2. `Current versions:`
     - [x] **1.0** 👍
